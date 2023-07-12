@@ -1,4 +1,4 @@
-* Thư mục CODES gồm có 6 file:
+* Thư mục Code gồm có 6 file:
 
 	- WhooshCranfield.ipynb: file chạy code với thư viện Whoosh và tập Cranfield
 
@@ -12,7 +12,7 @@
 
 	- WhooshCorpus.ipynb: file chạy code với thư viện Whoosh và tập Corpus
 
-* Thư mục DOCS chưa file báo cáo theo 2 dạng là .docs và .pdf
+* Thư mục Doc chứa file báo cáo theo 2 dạng là .docs và .pdf
 
 * Link data: trong các file code có link để download data từ drive, cụ thể:
 
